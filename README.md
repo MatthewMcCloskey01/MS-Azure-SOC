@@ -1,4 +1,4 @@
-# Vulnerability Scanning with Nessus
+# Creating a Live SOC / Honeynet in Azure
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction
